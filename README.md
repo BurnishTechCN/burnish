@@ -1,4 +1,4 @@
-# burnish 官网
+# Burnish 官网
 
 ## 快速开始
 
